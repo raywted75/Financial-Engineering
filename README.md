@@ -24,10 +24,10 @@
 | 9 | Fixed-income securities with embedded options and interest rate derivatives | hw5 |
 | 10 | Mortgage-backed securities (MBS) |  |
 | 11 | Numerical methods - Monte Carlo methods |  |
-| 12 |  |  |
+| 12 | (Midterm Exam) |  |
 | 13 | Numerical methods - Quasi-Monte Carlo method |  |
 | 14 | Numerical methods - Solving partial differential equations |  |
 | 15 | Numerical methods - Yield curve fitting |  |
-| 16 |  |  |
+| 16 | (Final Exam) |  |
 | 17 | GARCH models |  |
 | 18 | Interest rate models and calibration |  |

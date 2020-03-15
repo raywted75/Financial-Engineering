@@ -1,8 +1,15 @@
 # Financial-Engineering
 
-資管四 林建鋐 B05705018
+## About Me
+- Name: Chien-Hung Lin (林建鋐)
+- Student ID: B05705018
+- Department: Information Management
+- School: National Taiwan University
 
-## Course Information
+## About the Course
+- Instructor: Yun-Cheng Tsai
+- Department: Economics
+- Semester: Spring, 2020
 
 | Week | Topics | Homework |
 | ---- | ------ | -------- |

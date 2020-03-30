@@ -17,6 +17,12 @@
 
 ### 2. 執行程式
 
+一、綜合計算（YTM + Spot Rates + Forward Rates）
+
+    $ python3 hw2_all.py
+    
+二、個別計算
+
 計算 YTM 
     
     $ python3 hw2_ytm.py
@@ -40,7 +46,3 @@
 ([綠角財經筆記](http://greenhornfinancefootnote.blogspot.com/2010/08/how-to-compute-forward-rates-from.html))
 
     $ python3 hw2_forward_rate_2.py
-
-綜合計算（YTM + Spot Rates + Forward Rates）
-
-    $ python3 hw2_all.py

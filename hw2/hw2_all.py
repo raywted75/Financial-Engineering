@@ -7,6 +7,7 @@ if __name__ == "__main__":
     # Input
     n = float(input("Years to Maturity: "))
     m = int(input("Payment(1. Annually, 2. Semi-annually, 4. Quarterly): "))
+    print(f"總共 {int(m*n)} 期，請分別輸入各期資訊：")
 
     coupon_rate = list()
     ytm = list()

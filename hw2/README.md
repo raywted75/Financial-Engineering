@@ -2,7 +2,9 @@
 
 ## 流程圖
 
-<img src="Flow_Chart.svg"/>
+<p align="center">
+    <img src="Flow_Chart.svg"/>
+</p>
 
 ## 程式執行
 

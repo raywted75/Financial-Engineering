@@ -15,7 +15,7 @@
 | ---- | ------ | -------- |
 | 1 | Time value of money, bonds, mortgages, and annuities | [hw1](https://github.com/raywted75/Financial-Engineering/tree/master/hw1) |
 | 2 | Duration, convexity, and immunization |  |
-| 3 | The yield curve, forward rate, and spot rate | hw2 |
+| 3 | The yield curve, forward rate, and spot rate | [hw2](https://github.com/raywted75/Financial-Engineering/tree/master/hw2) |
 | 4 | Option pricing theory and its wide-ranging applications |  |
 | 5 | The combinatorics of random walks | hw3 |
 | 6 | Martingale, Brownian motion, stochastic calculus, and Ito integral |  |

@@ -10,7 +10,7 @@
 
 ### 0. 測試環境
 
-|  | Environments 1 | Environments 2 |
+|  | Environment 1 | Environment 2 |
 | ------------- | ------------- | ------------- |
 | Operation System | macOS Catalina | Ubuntu 19.10 |
 | Language | python 3.7.4 | python 3.7.5 |
@@ -20,11 +20,11 @@
     $ pip3 install -r requirements.txt
 
 ### 2. 執行程式
-1. 逐步計算
+逐步計算
 
     $ python3 BOPM1.py
 
-2. 公式計算
+公式計算
 
     $ python3 BOPM2.py
 
@@ -32,4 +32,4 @@
 
 | 學習歷程 | 流程圖 | 程式碼（逐步計算）| 程式碼（公式計算）
 | ------------- | ------------- | ------------- | ------------- |
-| [學習歷程.ipynb]() | [流程圖.svg]() | [BOPM1.py]() | [BOPM2.py]() |
+| [學習歷程.ipynb](https://github.com/raywted75/Financial-Engineering/blob/master/hw3/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb) | [流程圖.svg](https://github.com/raywted75/Financial-Engineering/blob/master/hw3/Flow_Chart.svg) | [BOPM1.py](https://github.com/raywted75/Financial-Engineering/blob/master/hw3/BOPM1.py) | [BOPM2.py](https://github.com/raywted75/Financial-Engineering/blob/master/hw3/BOPM2.py) |

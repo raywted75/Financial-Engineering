@@ -19,5 +19,6 @@ for j in range(n + 1):
 cValue = c / (R ** n)
 pValue = p / (R ** n)
 
+print("-------------------------")
 print(f"Call Value = {cValue}")
 print(f"Put Value = {pValue}")

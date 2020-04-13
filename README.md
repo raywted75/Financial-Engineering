@@ -17,7 +17,7 @@
 | 2 | Duration, convexity, and immunization |  |
 | 3 | The yield curve, forward rate, and spot rate | [hw2](https://github.com/raywted75/Financial-Engineering/tree/master/hw2) |
 | 4 | Option pricing theory and its wide-ranging applications |  |
-| 5 | The combinatorics of random walks | hw3 |
+| 5 | The combinatorics of random walks | [hw3](https://github.com/raywted75/Financial-Engineering/tree/master/hw3) |
 | 6 | Martingale, Brownian motion, stochastic calculus, and Ito integral |  |
 | 7 | Risk-neutral valuation | hw4 |
 | 8 | Risk management |  |

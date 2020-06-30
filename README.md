@@ -19,9 +19,9 @@
 | 4 | Option pricing theory and its wide-ranging applications |  |
 | 5 | The combinatorics of random walks | [hw3](https://github.com/raywted75/Financial-Engineering/tree/master/hw3) |
 | 6 | Martingale, Brownian motion, stochastic calculus, and Ito integral |  |
-| 7 | Risk-neutral valuation | hw4 |
+| 7 | Risk-neutral valuation | [hw4](https://github.com/raywted75/Financial-Engineering/tree/master/hw4) |
 | 8 | Risk management |  |
-| 9 | Fixed-income securities with embedded options and interest rate derivatives | hw5 |
+| 9 | Fixed-income securities with embedded options and interest rate derivatives | [hw5](https://github.com/raywted75/Financial-Engineering/tree/master/hw5) |
 | 10 | Mortgage-backed securities (MBS) |  |
 | 11 | Numerical methods - Monte Carlo methods |  |
 | 12 | (Midterm Exam) |  |
